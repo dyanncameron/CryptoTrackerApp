@@ -32,18 +32,18 @@ namespace CryptoTracker
         {
             CoinListView.ItemsSource = GetCoins();
 
-            try
-            {
-                Crashes.GenerateTestCrash();
-            }
-            catch (Exception exception)
-            {
-                Crashes.TrackError(exception, new Dictionary<string, string>() {
-                    { "IsCoins", "true"}
-                });
+//            // try
+//             {
+//                 Crashes.GenerateTestCrash();
+//             }
+//             catch (Exception exception)
+//             {
+//                 Crashes.TrackError(exception, new Dictionary<string, string>() {
+//                     { "IsCoins", "true"}
+//                 });
 
                 
-            }
+//             }//
         }
 
         private  List<Coin> GetCoins()
