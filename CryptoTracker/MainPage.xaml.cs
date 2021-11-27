@@ -14,7 +14,7 @@ namespace CryptoTracker
 {
     public partial class MainPage : ContentPage
     {
-        private string apiKey = "7D7E3829-68EA-4607-A4D0-E5488E88A25C";
+        private string apiKey = "90982F12-0D45-4307-98F7-140B177C8114";
         private string baseImageUrl = "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_64/";
         
 
