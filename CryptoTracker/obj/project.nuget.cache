@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "jKvDe9YtbjbweuJaoLMz2/e/mO6zCrSizuWtIbZ4B3cMrd/c4owvXqrpGbGfM2e5KRJUfE5I0/SDQmd+9fQDXg==",
+  "success": true,
+  "projectFilePath": "/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/CryptoTracker.csproj",
+  "expectedPackageFiles": [
+    "/Users/dyanncameron/.nuget/packages/microsoft.appcenter/4.4.0/microsoft.appcenter.4.4.0.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/microsoft.appcenter.analytics/4.4.0/microsoft.appcenter.analytics.4.4.0.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/microsoft.appcenter.crashes/4.4.0/microsoft.appcenter.crashes.4.4.0.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/restsharp/106.13.0/restsharp.106.13.0.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/xamarin.forms/5.0.0.2244/xamarin.forms.5.0.0.2244.nupkg.sha512"
+  ],
+  "logs": []
+}

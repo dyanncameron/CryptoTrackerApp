@@ -1,0 +1,15 @@
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/bin/Debug/netstandard2.0/CryptoTracker.deps.json
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/bin/Debug/netstandard2.0/CryptoTracker.dll
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/bin/Debug/netstandard2.0/ref/CryptoTracker.dll
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/bin/Debug/netstandard2.0/CryptoTracker.pdb
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/obj/Debug/netstandard2.0/CryptoTracker.csproj.AssemblyReference.cache
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/obj/Debug/netstandard2.0/CryptoTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/obj/Debug/netstandard2.0/CryptoTracker.AssemblyInfoInputs.cache
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/obj/Debug/netstandard2.0/CryptoTracker.AssemblyInfo.cs
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/obj/Debug/netstandard2.0/CryptoTracker.csproj.CoreCompileInputs.cache
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/obj/Debug/netstandard2.0/CryptoTracker.dll
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/obj/Debug/netstandard2.0/ref/CryptoTracker.dll
+/Users/dyanncameron/Xamarin/CryptoTracker/CryptoTracker/CryptoTracker/obj/Debug/netstandard2.0/CryptoTracker.pdb
